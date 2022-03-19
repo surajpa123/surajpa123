@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 Checkout my portfolio [https://reverent-mahavira-bd0759.netlify.app/](https://reverent-mahavira-bd0759.netlify.app/)
+- 👨‍💻 Checkout my portfolio [https://surajpa123.github.io/](https://surajpa123.github.io/)
 
 - 💬 Ask me about **React,JavaScript,HTML,CSS,MongoDB,NodeJS,Express**
 
