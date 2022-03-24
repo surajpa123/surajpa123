@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Pathak</h1>
-<h3 align="center">A passionate full stack web developer, Developing back-end and front-end website applications.</h3>
+<h3 align="center">A passionate full stack web developer, Developing front-end and back-end website applications.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
