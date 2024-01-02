@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Pathak</h1>
 <h3 align="center">A passionate full stack web developer, Developing front-end and back-end website applications.</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
 - 👨‍💻 Checkout my portfolio [https://surajpa123.github.io/](https://surajpa123.github.io/)
 
 - 💬 Ask me about **React,JavaScript,HTML,CSS,MongoDB,NodeJS,Express**
