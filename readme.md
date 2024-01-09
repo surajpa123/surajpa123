@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pathaksuraj136@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-NcIQag2njCeqFiPHl5GFJjfbLwoyDKf/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14ELg3MwhdBdQsIjNyMVTULQWpe5QBTBa/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
